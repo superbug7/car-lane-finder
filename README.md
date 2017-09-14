@@ -1,6 +1,6 @@
-# **Autonomous vehicle lane finder project|** 
+# **Autonomous vehicle lane finder project** 
 
-## How I got it working
+## Report
 
 ### This project is developed using Python3 and OpenCV APIs. The jupyter notebook file in this repository contains the code for piepline and also modification of the drawing function.
 
